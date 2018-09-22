@@ -1,0 +1,3548 @@
+fileFormatVersion: 2
+guid: 84e50518b2ddbbb41a6c999a141f20ad
+timeCreated: 1495984766
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteMaster_00
+    21300002: SpriteMaster_1
+    21300004: SpriteMaster_2
+    21300006: SpriteMaster_3
+    21300008: SpriteMaster_4
+    21300010: SpriteMaster_5
+    21300012: SpriteMaster_6
+    21300014: SpriteMaster_7
+    21300016: SpriteMaster_8
+    21300018: SpriteMaster_9
+    21300020: SpriteMaster_er
+    21300022: SpriteMaster_01
+    21300024: SpriteMaster_xx
+    21300026: SpriteMaster_13
+    21300028: SpriteMaster_14
+    21300030: SpriteMaster_15
+    21300032: SpriteMaster_16
+    21300034: SpriteMaster_17
+    21300036: SpriteMaster_18
+    21300038: SpriteMaster_19
+    21300040: SpriteMaster_uu
+    21300042: SpriteMaster_df
+    21300044: SpriteMaster_02
+    21300046: SpriteMaster_23
+    21300048: SpriteMaster_24
+    21300050: SpriteMaster_25
+    21300052: SpriteMaster_26
+    21300054: SpriteMaster_27
+    21300056: SpriteMaster_28
+    21300058: SpriteMaster_29
+    21300060: SpriteMaster_30
+    21300062: SpriteMaster_31
+    21300064: SpriteMaster_32
+    21300066: SpriteMaster_11
+    21300068: SpriteMaster_34
+    21300070: SpriteMaster_35
+    21300072: SpriteMaster_36
+    21300074: SpriteMaster_37
+    21300076: SpriteMaster_38
+    21300078: SpriteMaster_39
+    21300080: SpriteMaster_sd
+    21300082: SpriteMaster_cv
+    21300084: SpriteMaster_nb
+    21300086: SpriteMaster_43
+    21300088: SpriteMaster_20
+    21300090: SpriteMaster_45
+    21300092: SpriteMaster_46
+    21300094: SpriteMaster_47
+    21300096: SpriteMaster_48
+    21300098: SpriteMaster_49
+    21300100: SpriteMaster_as
+    21300102: SpriteMaster_asd
+    21300104: SpriteMaster_asdf
+    21300106: SpriteMaster_53
+    21300108: SpriteMaster_54
+    21300110: SpriteMaster_10
+    21300112: SpriteMaster_56
+    21300114: SpriteMaster_57
+    21300116: SpriteMaster_58
+    21300118: SpriteMaster_59
+    21300120: SpriteMaster_fgh
+    21300122: SpriteMaster_fg
+    21300124: SpriteMaster_fh
+    21300126: SpriteMaster_63
+    21300128: SpriteMaster_64
+    21300130: SpriteMaster_65
+    21300132: SpriteMaster_21
+    21300134: SpriteMaster_67
+    21300136: SpriteMaster_68
+    21300138: SpriteMaster_69
+    21300140: SpriteMaster_70
+    21300142: SpriteMaster_71
+    21300144: SpriteMaster_72
+    21300146: SpriteMaster_73
+    21300148: SpriteMaster_74
+    21300150: SpriteMaster_75
+    21300152: SpriteMaster_76
+    21300154: SpriteMaster_12
+    21300156: SpriteMaster_78
+    21300158: SpriteMaster_79
+    21300160: SpriteMaster_80
+    21300162: SpriteMaster_81
+    21300164: SpriteMaster_82
+    21300166: SpriteMaster_83
+    21300168: SpriteMaster_84
+    21300170: SpriteMaster_85
+    21300172: SpriteMaster_86
+    21300174: SpriteMaster_87
+    21300176: SpriteMaster_22
+    21300178: SpriteMaster_89
+    21300180: SpriteMaster_90
+    21300182: SpriteMaster_91
+    21300184: SpriteMaster_92
+    21300186: SpriteMaster_93
+    21300188: SpriteMaster_94
+    21300190: SpriteMaster_95
+    21300192: SpriteMaster_96
+    21300194: SpriteMaster_97
+    21300196: SpriteMaster_98
+    21300198: SpriteMaster_40
+    21300200: SpriteMaster_100
+    21300202: SpriteMaster_101
+    21300204: SpriteMaster_102
+    21300206: SpriteMaster_103
+    21300208: SpriteMaster_104
+    21300210: SpriteMaster_105
+    21300212: SpriteMaster_106
+    21300214: SpriteMaster_107
+    21300216: SpriteMaster_108
+    21300218: SpriteMaster_109
+    21300220: SpriteMaster_110
+    21300222: SpriteMaster_111
+    21300224: SpriteMaster_112
+    21300226: SpriteMaster_113
+    21300228: SpriteMaster_114
+    21300230: SpriteMaster_42
+    21300232: SpriteMaster_116
+    21300234: SpriteMaster_117
+    21300236: SpriteMaster_118
+    21300238: SpriteMaster_119
+    21300240: SpriteMaster_120
+    21300242: SpriteMaster_121
+    21300244: SpriteMaster_122
+    21300246: SpriteMaster_123
+    21300248: SpriteMaster_124
+    21300250: SpriteMaster_125
+    21300252: SpriteMaster_126
+    21300254: SpriteMaster_127
+    21300256: SpriteMaster_128
+    21300258: SpriteMaster_129
+    21300260: SpriteMaster_130
+    21300262: SpriteMaster_41
+    21300264: SpriteMaster_132
+    21300266: SpriteMaster_133
+    21300268: SpriteMaster_134
+    21300270: SpriteMaster_135
+    21300272: SpriteMaster_136
+    21300274: SpriteMaster_137
+    21300276: SpriteMaster_138
+    21300278: SpriteMaster_139
+    21300280: SpriteMaster_140
+    21300282: SpriteMaster_141
+    21300284: SpriteMaster_142
+    21300286: SpriteMaster_143
+    21300288: SpriteMaster_144
+    21300290: SpriteMaster_145
+    21300292: SpriteMaster_146
+    21300294: SpriteMaster_50
+    21300296: SpriteMaster_148
+    21300298: SpriteMaster_149
+    21300300: SpriteMaster_150
+    21300302: SpriteMaster_151
+    21300304: SpriteMaster_152
+    21300306: SpriteMaster_153
+    21300308: SpriteMaster_154
+    21300310: SpriteMaster_155
+    21300312: SpriteMaster_156
+    21300314: SpriteMaster_157
+    21300316: SpriteMaster_158
+    21300318: SpriteMaster_159
+    21300320: SpriteMaster_160
+    21300322: SpriteMaster_161
+    21300324: SpriteMaster_162
+    21300326: SpriteMaster_51
+    21300328: SpriteMaster_164
+    21300330: SpriteMaster_165
+    21300332: SpriteMaster_166
+    21300334: SpriteMaster_167
+    21300336: SpriteMaster_168
+    21300338: SpriteMaster_169
+    21300340: SpriteMaster_170
+    21300342: SpriteMaster_171
+    21300344: SpriteMaster_172
+    21300346: SpriteMaster_173
+    21300348: SpriteMaster_174
+    21300350: SpriteMaster_175
+    21300352: SpriteMaster_176
+    21300354: SpriteMaster_177
+    21300356: SpriteMaster_178
+    21300358: SpriteMaster_52
+    21300360: SpriteMaster_180
+    21300362: SpriteMaster_181
+    21300364: SpriteMaster_182
+    21300366: SpriteMaster_183
+    21300368: SpriteMaster_184
+    21300370: SpriteMaster_185
+    21300372: SpriteMaster_186
+    21300374: SpriteMaster_187
+    21300376: SpriteMaster_188
+    21300378: SpriteMaster_189
+    21300380: SpriteMaster_190
+    21300382: SpriteMaster_191
+    21300384: SpriteMaster_192
+    21300386: SpriteMaster_193
+    21300388: SpriteMaster_194
+    21300390: SpriteMaster_60
+    21300392: SpriteMaster_196
+    21300394: SpriteMaster_197
+    21300396: SpriteMaster_198
+    21300398: SpriteMaster_199
+    21300400: SpriteMaster_200
+    21300402: SpriteMaster_201
+    21300404: SpriteMaster_202
+    21300406: SpriteMaster_203
+    21300408: SpriteMaster_204
+    21300410: SpriteMaster_205
+    21300412: SpriteMaster_206
+    21300414: SpriteMaster_207
+    21300416: SpriteMaster_208
+    21300418: SpriteMaster_209
+    21300420: SpriteMaster_210
+    21300422: SpriteMaster_62
+    21300424: SpriteMaster_212
+    21300426: SpriteMaster_213
+    21300428: SpriteMaster_214
+    21300430: SpriteMaster_215
+    21300432: SpriteMaster_216
+    21300434: SpriteMaster_217
+    21300436: SpriteMaster_218
+    21300438: SpriteMaster_219
+    21300440: SpriteMaster_220
+    21300442: SpriteMaster_221
+    21300444: SpriteMaster_222
+    21300446: SpriteMaster_223
+    21300448: SpriteMaster_224
+    21300450: SpriteMaster_225
+    21300452: SpriteMaster_226
+    21300454: SpriteMaster_61
+    21300456: SpriteMaster_228
+    21300458: SpriteMaster_229
+    21300460: SpriteMaster_230
+    21300462: SpriteMaster_231
+    21300464: SpriteMaster_232
+    21300466: SpriteMaster_233
+    21300468: SpriteMaster_234
+    21300470: SpriteMaster_235
+    21300472: SpriteMaster_236
+    21300474: SpriteMaster_237
+    21300476: SpriteMaster_238
+    21300478: SpriteMaster_239
+    21300480: SpriteMaster_240
+    21300482: SpriteMaster_241
+    21300484: SpriteMaster_242
+    21300486: SpriteMaster_243
+    21300488: SpriteMaster_244
+    21300490: SpriteMaster_245
+    21300492: SpriteMaster_246
+    21300494: SpriteMaster_247
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteMaster_00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 951
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 948
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 948
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 948
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 948
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 948
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 948
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 948
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 948
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 948
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_er
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 950
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_xx
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 879
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 879
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 879
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 879
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 879
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 879
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_18
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 879
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_19
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 879
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_uu
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 879
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_df
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 879
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 811
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 811
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 811
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 811
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 811
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 811
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 811
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_29
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 811
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_30
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 811
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_31
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 811
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_32
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 811
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 738
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 738
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 738
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 738
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_37
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 738
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_38
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 738
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 738
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_sd
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 736
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_cv
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 738
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_nb
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 738
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_43
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 738
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_20
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 738
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_45
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 738
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_46
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 738
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_47
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 738
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_48
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 738
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_49
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 738
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_as
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 738
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_asd
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 738
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_asdf
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 738
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_53
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 738
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_54
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 738
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 671
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 671
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_57
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 671
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 671
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_59
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 671
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_fgh
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 671
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_fg
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 671
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_fh
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 671
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_63
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 671
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_64
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 671
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_65
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 671
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_21
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 671
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_67
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 671
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_68
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 671
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_69
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 671
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_70
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 671
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_71
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 671
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_72
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 673
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_73
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 671
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_74
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 671
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_75
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 671
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_76
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 671
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 604
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 604
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_79
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 604
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 604
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_81
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 604
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_82
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 604
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_83
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 604
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_84
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 604
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_85
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 604
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_86
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 604
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_87
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 604
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_22
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 609
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_89
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 607
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_90
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 607
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_91
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 607
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_92
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 607
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_93
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 607
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_94
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 607
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_95
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 607
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_96
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 607
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_97
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 607
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_98
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 607
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 537
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_100
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 537
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_101
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 537
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_102
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 537
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_103
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 537
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_104
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 537
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_105
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 537
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_106
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 537
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_107
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 537
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_108
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 537
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_109
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 537
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_110
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 537
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_111
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 537
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_112
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 541
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_113
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 537
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_114
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 537
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_116
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 469
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_117
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 469
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_118
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 469
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_119
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 469
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_120
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 469
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_121
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 469
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_122
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 469
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_123
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 469
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_124
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 469
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_125
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 469
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_126
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 469
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_127
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 469
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_128
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 473
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_129
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 469
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_130
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 469
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_132
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 401
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_133
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 401
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_134
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 401
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_135
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 401
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_136
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 401
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_137
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 401
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_138
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 401
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_139
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 401
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_140
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 401
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_141
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 401
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_142
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 401
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_143
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 401
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_144
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 405
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_145
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 401
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_146
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 401
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 337
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_148
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 337
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_149
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 337
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_150
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 337
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_151
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 337
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_152
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 337
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_153
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 337
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_154
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 337
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_155
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 337
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_156
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 337
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_157
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 337
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_158
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 337
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_159
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 337
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_160
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 341
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_161
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 337
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_162
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 337
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 271
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_164
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 271
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_165
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 271
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_166
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 271
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_167
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 271
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_168
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 271
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_169
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 271
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_170
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 271
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_171
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 271
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_172
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 271
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_173
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 271
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_174
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 271
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_175
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 271
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_176
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 275
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_177
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 271
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_178
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 271
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 206
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_180
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 206
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_181
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 206
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_182
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 206
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_183
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 206
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_184
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 206
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_185
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 206
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_186
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 206
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_187
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 206
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_188
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 206
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_189
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 206
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_190
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 206
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_191
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 206
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_192
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 210
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_193
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 206
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_194
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 206
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 140
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_196
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 138
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_197
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 138
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_198
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 138
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_199
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 138
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_200
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 138
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_201
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 138
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_202
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 138
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_203
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 138
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_204
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 138
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_205
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 138
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_206
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 138
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_207
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 138
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_208
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 142
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_209
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 138
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_210
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 138
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 69
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_212
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 69
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_213
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 69
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_214
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 69
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_215
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 69
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_216
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 69
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_217
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 69
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_218
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 69
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_219
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 69
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_220
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 69
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_221
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 69
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_222
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 69
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_223
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 69
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_224
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 73
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_225
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 69
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_226
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 69
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_228
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_229
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_230
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_231
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_232
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_233
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_234
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_235
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 29
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_236
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 25
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_237
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 17
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_238
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 4
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_239
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_240
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 0
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_241
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_242
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_243
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_244
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 4
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_245
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_246
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 0
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteMaster_247
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

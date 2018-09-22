@@ -1,0 +1,232 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kfras\GameJamProject\BoardMasters\BoardMasters_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kfras\GameJamProject\BoardMasters\BoardMasters_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kfras\GameJamProject\BoardMasters\BoardMasters_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kfras\GameJamProject\BoardMasters\BoardMasters_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kfras\GameJamProject\BoardMasters\BoardMasters_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kfras\GameJamProject\BoardMasters\BoardMasters_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kfras\GameJamProject\BoardMasters\BoardMasters_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\kfras\GameJamProject\BoardMasters\BoardMasters_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.096 seconds
+Platform assembly: C:\Users\kfras\GameJamProject\BoardMasters\BoardMasters_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\kfras\GameJamProject\BoardMasters\BoardMasters_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.072294 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1d10 -> priority: 1 
+  Thread -> id: 5308 -> priority: 1 
+  Thread -> id: 4084 -> priority: 1 
+  Thread -> id: 29cc -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.523058 ms
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 407.
+Total: 0.561382 ms (FindLiveObjects: 0.019358 ms CreateObjectMapping: 0.018172 ms MarkObjects: 0.240592 ms  DeleteObjects: 0.282864 ms)
+
+The scene name in buttons is CharacterSelectu1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The scene name in buttons is CharacterSelectu2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The scene name in buttons is CharacterSelectu3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The scene name in buttons is CharacterSelectu4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The scene name in buttons is CharacterSelectu5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The scene name in buttons is CharacterSelectu6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The t1 in buttons is SpriteMaster_40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The t1 in buttons is SpriteMaster_50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The t1 in buttons is SpriteMaster_60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The t1 in buttons is SpriteMaster_10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The t1 in buttons is SpriteMaster_00
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The t1 in buttons is SpriteMaster_20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.306863 ms
+
+Unloading 248 unused Assets to reduce memory usage. Loaded Objects now: 407.
+Total: 1.263406 ms (FindLiveObjects: 0.166320 ms CreateObjectMapping: 0.053728 ms MarkObjects: 0.561382 ms  DeleteObjects: 0.480789 ms)
+
+The scene name in buttons is CharacterSelect2u1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The scene name in buttons is CharacterSelect2u2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The scene name in buttons is CharacterSelect2u3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The scene name in buttons is CharacterSelect2u4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The scene name in buttons is CharacterSelect2u5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The scene name in buttons is CharacterSelect2u6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The t1 in buttons is SpriteMaster_40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The t1 in buttons is SpriteMaster_50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The t1 in buttons is SpriteMaster_60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The t1 in buttons is SpriteMaster_10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The t1 in buttons is SpriteMaster_00
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The t1 in buttons is SpriteMaster_20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.468147 ms
+
+Unloading 256 unused Assets to reduce memory usage. Loaded Objects now: 456.
+Total: 0.865184 ms (FindLiveObjects: 0.047407 ms CreateObjectMapping: 0.050172 ms MarkObjects: 0.412444 ms  DeleteObjects: 0.353580 ms)
+
+value of CharacterSelectu1 is SpriteMaster_40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lets see if it has keyTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+value of CharacterSelectu2 is SpriteMaster_50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lets see if it has keyTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+value of CharacterSelectu3 is SpriteMaster_60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lets see if it has keyTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+value of CharacterSelectu4 is SpriteMaster_10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lets see if it has keyTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+value of CharacterSelectu5 is SpriteMaster_00
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lets see if it has keyTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+value of CharacterSelectu6 is SpriteMaster_20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lets see if it has keyTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Empower turns: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Empower turns: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Empower turns: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+as A False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+as B False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+as C False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+as D False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+as E False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+as F False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

@@ -1,0 +1,64 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+/*
+public class status_effect{
+	string type;
+	float amt;
+	public status_effect(string type_, float amt_){
+		type=type_;
+		amt=amt_;
+	} 
+}
+*/
+
+public class combat_result{
+	float x_damage; // damage the first player took
+	float y_damage; // damage the second player took
+	//List<status_effect>x_effects; // status effects inflicted on first player. Maybe we might want to add this
+	//List<status_effect> y_effects; // status effects inflicted on second player.
+	public combat_result(float xd, float yd){
+		x_damage = xd;
+		y_damage = yd;
+	}
+}
+
+
+
+
+public class NewBehaviourScript : MonoBehaviour {
+	public combat_result combat(Playerstats x, Playerstats y){ // x attacks y
+		float attack = x.attack;
+		float defense = y.defense;
+		/* example of a status effect
+		for(int i=0;i<x.effects;x++){
+			if(x.effects[i].type == "empower"){
+				attack = attack + x.effects[i].amt;
+			}			
+		}
+		*/
+		float base_damage = attack - defense;
+		float reflected_damage = 0
+			if (x.color == "red" && y.color == "blue") {
+				base_damage *= 1.5;
+			}
+			if (x.color == "blue" && y.color == "green") {
+				base_damage *= 1.5;
+			}
+			if (x.color == "green" && y.color == "red") {
+				base_damage *= 1.5;
+			}
+				// if we do reflected damage, we can add this
+				return combat_result (reflected_damage,base_damage);
+	}
+	// Use this for initialization
+	void Start () {
+
+	}
+	abcad
+	// Update is called once per frame
+	void Update () {
+
+	}
+}

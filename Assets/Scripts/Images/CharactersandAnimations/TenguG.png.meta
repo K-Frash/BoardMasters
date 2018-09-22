@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 28d45c3fe2c86fb49a062cdc9c99cf91
+timeCreated: 1495932838
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TenguG_0
+    21300002: TenguG_1
+    21300004: TenguG_2
+    21300006: TenguG_3
+    21300008: TenguG_4
+    21300010: TenguG_5
+    21300012: TenguG_6
+    21300014: TenguG_7
+    21300016: TenguG_8
+    21300018: TenguG_9
+    21300020: TenguG_10
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TenguG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TenguG_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TenguG_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TenguG_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 46.545456
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TenguG_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TenguG_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TenguG_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TenguG_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TenguG_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TenguG_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TenguG_10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -208, y: -13}
+      - {x: -213, y: -27}
+      - {x: -71, y: -27}
+      - {x: -69, y: -14}
+      - {x: -69, y: -5}
+      - {x: -69, y: -27}
+      - {x: -25, y: -27}
+      - {x: -21, y: -14}
+      - {x: -22, y: -23}
+      - {x: -22, y: -27}
+      - {x: 22, y: -27}
+      - {x: 23, y: -23}
+      - {x: 25, y: -27}
+      - {x: 26, y: -27}
+      - {x: 51, y: 27}
+      - {x: -255, y: 27}
+      - {x: -256, y: 18}
+      - {x: -256, y: -27}
+      - {x: -214, y: -27}
+      - {x: -214, y: -24}
+      - {x: -215, y: -22}
+      - {x: -217, y: -12}
+    - - {x: 119, y: -27}
+      - {x: 256, y: -27}
+      - {x: 256, y: 27}
+      - {x: 73, y: 27}
+      - {x: 72, y: 14}
+      - {x: 72, y: -27}
+      - {x: 117, y: -27}
+      - {x: 116, y: -12}
+      - {x: 117, y: -19}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

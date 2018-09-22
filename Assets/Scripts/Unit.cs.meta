@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ef4db61a7d9294582814be4bf18379d7
+timeCreated: 1495983839
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - movePositon: {fileID: 1309484433551146, guid: feffee4284343624cab8061ed4017546,
+      type: 2}
+  - attackBox: {fileID: 1309484433551146, guid: 71a3d5c6769491e42b43feaef0a88fde,
+      type: 2}
+  - playerSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
